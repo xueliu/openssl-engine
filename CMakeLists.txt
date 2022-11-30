@@ -45,3 +45,5 @@ set(BUILD_SHARED_LIBS ON)
 #add_subdirectory(oezgan)
 
 add_subdirectory(dummy)
+
+add_subdirectory(md5)
