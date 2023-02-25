@@ -69,5 +69,8 @@ add_subdirectory(dummy)
 
 add_subdirectory(md5)
 
-
 add_subdirectory(unit-tests)
+
+add_subdirectory(examples)
+
+add_subdirectory(sha256)
